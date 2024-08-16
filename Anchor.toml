@@ -3,10 +3,9 @@
 [features]
 resolution = true
 skip-lint = false
-seeds = true
 
 [programs.localnet]
-anchor_movie_review_program = "4wBvMoA1GG9gXDP4JJvrN1fhDyJYSRC5KHK26oGscJys"
+anchor_movie_review_program = "DdfERqFmyJXMTv9j6sCJzrtHjmaNKW4WRaf9ig83fhL1"
 
 [registry]
 url = "https://api.apr.dev"
